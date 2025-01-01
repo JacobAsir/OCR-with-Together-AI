@@ -1,5 +1,3 @@
-langchain
-langchain-community 
 streamlit
 together
 Pillow
